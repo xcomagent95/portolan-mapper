@@ -1,0 +1,135 @@
+{
+      "type": "FeatureCollection",
+      "features": [
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 0
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              80,
+                              0
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 360
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              160.0,
+                              -1.9594348786357652e-14
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 22.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              153.91036260090294,
+                              30.614674589207183
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 45
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              136.5685424949238,
+                              56.568542494923804
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 67.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              110.61467458920718,
+                              73.91036260090294
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 90
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              80.0,
+                              80.0
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 337.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              153.91036260090294,
+                              -30.614674589207166
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 315
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              136.5685424949238,
+                              -56.56854249492382
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 292.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              110.6146745892072,
+                              -73.91036260090293
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 270
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              79.99999999999999,
+                              -80.0
+                        ],
+                        "type": "Point"
+                  }
+            }
+      ]
+}

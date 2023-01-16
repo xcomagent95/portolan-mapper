@@ -1,0 +1,226 @@
+{
+      "type": "FeatureCollection",
+      "features": [
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 0
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              0,
+                              0
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 360
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              80.0,
+                              -1.9594348786357652e-14
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 22.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              73.91036260090294,
+                              30.614674589207183
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 45
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              56.568542494923804,
+                              56.568542494923804
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 67.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              30.614674589207187,
+                              73.91036260090294
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 180
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              -80.0,
+                              9.797174393178826e-15
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 202.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              -73.91036260090294,
+                              -30.614674589207173
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 225
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              -56.56854249492382,
+                              -56.5685424949238
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 247.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              -30.614674589207162,
+                              -73.91036260090294
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 90
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              4.898587196589413e-15,
+                              80.0
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 112.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              -30.614674589207176,
+                              73.91036260090294
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 135
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              -56.5685424949238,
+                              56.568542494923804
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 157.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              -73.91036260090294,
+                              30.61467458920719
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 270
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              -1.4695761589768237e-14,
+                              -80.0
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 292.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              30.6146745892072,
+                              -73.91036260090293
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 315
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              56.56854249492379,
+                              -56.56854249492382
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 337.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              73.91036260090294,
+                              -30.614674589207166
+                        ],
+                        "type": "Point"
+                  }
+            }
+      ]
+}
