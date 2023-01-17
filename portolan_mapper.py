@@ -63,11 +63,12 @@ def getGeometries(x, y, angles, name, size):
     out_file.close()
     
     lines = []
+    id = 0
     for i in points:
         for y in points:
             line = {
              "type": "Feature",
-             "properties": {},
+             "properties": {'id': id},
              "geometry": {
                "coordinates": [
                  [
@@ -83,6 +84,7 @@ def getGeometries(x, y, angles, name, size):
              }
            }
             lines.append(line)
+            id += 1
             
     linesData = {
           "type": "FeatureCollection",
