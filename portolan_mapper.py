@@ -18,6 +18,8 @@ def getPortolan(x, y, size, layout):
         getGeometries(x+2*size, y, anglesRight, "left", size)
         getGeometries(x-2*size, y, anglesLeft, "right", size)
     
+def getConnections(pointsCenter, pointsSide):
+    pass
     
 def getGeometries(x, y, angles, name, size):
     
@@ -97,7 +99,9 @@ def getGeometries(x, y, angles, name, size):
         
     return True
 
+#Types: oo, (o), )o(
 #getPortolan(0, 0, 90, 'oo')
 #getPortolan(0, 0, 90, '(o)')
 getPortolan(0, 0, 90, ')o(')
-#Types: oo, (o), )o(
+
+
