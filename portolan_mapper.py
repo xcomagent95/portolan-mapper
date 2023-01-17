@@ -1,14 +1,23 @@
 import math
 import json
 
-def getPortolan(x, y, size):
+def getPortolan(x, y, size, layout):
     anglesFull = [360, 22.5, 45, 67.5, 180, 202.5, 225, 247.5, 90, 112.5, 135, 157.5, 270, 292.5, 315, 337.5]
     anglesLeft = [360, 22.5, 45, 67.5, 90, 337.5, 315, 292.5, 270]
     anglesRight = [180, 270, 247.5, 225, 202.5, 157.5, 135, 112.5, 90]
     
-    getGeometries(x, y, anglesFull, "center", size)
-    getGeometries(x+size, y, anglesLeft, "left", size)
-    getGeometries(x-size, y, anglesRight, "right", size)
+    if(layout == "oo"):
+        getGeometries(x+size, y, anglesFull, "left", size)
+        getGeometries(x-size, y, anglesFull, "right", size)  
+    elif(layout == '(o)'):
+        getGeometries(x, y, anglesFull, "center", size)
+        getGeometries(x+size, y, anglesLeft, "left", size)
+        getGeometries(x-size, y, anglesRight, "right", size)
+    elif(layout == ')o('):
+        getGeometries(x, y, anglesFull, "center", size)
+        getGeometries(x+2*size, y, anglesRight, "left", size)
+        getGeometries(x-2*size, y, anglesLeft, "right", size)
+    
     
 def getGeometries(x, y, angles, name, size):
     
@@ -86,4 +95,7 @@ def getGeometries(x, y, angles, name, size):
         
     return True
 
-getPortolan(0, 0, 80)
+#getPortolan(0, 0, 90, 'oo')
+#getPortolan(0, 0, 90, '(o)')
+getPortolan(0, 0, 90, ')o(')
+#Types: oo, (o), )o(

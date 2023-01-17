@@ -8,7 +8,7 @@
                   },
                   "geometry": {
                         "coordinates": [
-                              80,
+                              180,
                               0
                         ],
                         "type": "Point"
@@ -17,103 +17,12 @@
             {
                   "type": "Feature",
                   "properties": {
-                        "angle": 360
+                        "angle": 180
                   },
                   "geometry": {
                         "coordinates": [
-                              160.0,
-                              -1.9594348786357652e-14
-                        ],
-                        "type": "Point"
-                  }
-            },
-            {
-                  "type": "Feature",
-                  "properties": {
-                        "angle": 22.5
-                  },
-                  "geometry": {
-                        "coordinates": [
-                              153.91036260090294,
-                              30.614674589207183
-                        ],
-                        "type": "Point"
-                  }
-            },
-            {
-                  "type": "Feature",
-                  "properties": {
-                        "angle": 45
-                  },
-                  "geometry": {
-                        "coordinates": [
-                              136.5685424949238,
-                              56.568542494923804
-                        ],
-                        "type": "Point"
-                  }
-            },
-            {
-                  "type": "Feature",
-                  "properties": {
-                        "angle": 67.5
-                  },
-                  "geometry": {
-                        "coordinates": [
-                              110.61467458920718,
-                              73.91036260090294
-                        ],
-                        "type": "Point"
-                  }
-            },
-            {
-                  "type": "Feature",
-                  "properties": {
-                        "angle": 90
-                  },
-                  "geometry": {
-                        "coordinates": [
-                              80.0,
-                              80.0
-                        ],
-                        "type": "Point"
-                  }
-            },
-            {
-                  "type": "Feature",
-                  "properties": {
-                        "angle": 337.5
-                  },
-                  "geometry": {
-                        "coordinates": [
-                              153.91036260090294,
-                              -30.614674589207166
-                        ],
-                        "type": "Point"
-                  }
-            },
-            {
-                  "type": "Feature",
-                  "properties": {
-                        "angle": 315
-                  },
-                  "geometry": {
-                        "coordinates": [
-                              136.5685424949238,
-                              -56.56854249492382
-                        ],
-                        "type": "Point"
-                  }
-            },
-            {
-                  "type": "Feature",
-                  "properties": {
-                        "angle": 292.5
-                  },
-                  "geometry": {
-                        "coordinates": [
-                              110.6146745892072,
-                              -73.91036260090293
+                              90.0,
+                              1.1021821192326179e-14
                         ],
                         "type": "Point"
                   }
@@ -125,8 +34,99 @@
                   },
                   "geometry": {
                         "coordinates": [
-                              79.99999999999999,
-                              -80.0
+                              179.99999999999997,
+                              -90.0
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 247.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              145.55849108714193,
+                              -83.14915792601582
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 225
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              116.3603896932107,
+                              -63.63961030678927
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 202.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              96.85084207398418,
+                              -34.44150891285807
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 157.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              96.8508420739842,
+                              34.44150891285809
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 135
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              116.36038969321072,
+                              63.63961030678928
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 112.5
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              145.55849108714193,
+                              83.1491579260158
+                        ],
+                        "type": "Point"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "angle": 90
+                  },
+                  "geometry": {
+                        "coordinates": [
+                              180.0,
+                              90.0
                         ],
                         "type": "Point"
                   }
